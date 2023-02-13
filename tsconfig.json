@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/about.jsx", "components/Navbar.jsx", "components/hero.jsx", "components/from.jsx", "pages/api/kontak.js"],
   "exclude": ["node_modules"]
 }
